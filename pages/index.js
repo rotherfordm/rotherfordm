@@ -98,7 +98,7 @@ export default function Home() {
                   className="bg-gradient-to-r from-teal-500 text- to-green-500 text-white px-4 py-2 border-none rounded-md ml-8"
                   href="https://rotherfordtech.s3.us-east-2.amazonaws.com/rotherfordtech/documents/github-pages/resume.pdf"
                   target="_blank"
-                  rel="noopener"
+                  rel="noreferrer"
                 >
                   Resume
                 </a>
@@ -128,7 +128,7 @@ export default function Home() {
               <a
                 href="https://rotherfordtech.onrender.com"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
                 className="underline"
               >
                 rotherfordtech
@@ -139,7 +139,7 @@ export default function Home() {
                 className="bg-gradient-to-r from-teal-500 text- to-green-500 text-white px-4 py-2 border-none rounded-md"
                 href="https://rotherfordtech.s3.us-east-2.amazonaws.com/rotherfordtech/documents/github-pages/resume.pdf"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
                 Resume
               </a>
@@ -183,12 +183,13 @@ export default function Home() {
         <section className="container mx-auto py-10">
           <h3 className="text-3xl py-1 text-white ">Projects</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
-            {projectList.map((i) => {
+            {projectList.map((item, index) => {
               return (
                 <Card
-                  title={i.title}
-                  description={i.description}
-                  technologies={i.technologies}
+                  key={index}
+                  title={item.title}
+                  description={item.description}
+                  technologies={item.technologies}
                 />
               );
             })}
