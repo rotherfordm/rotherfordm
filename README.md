@@ -13,6 +13,8 @@ I am a Technologist that loves to research and develop new things. I find innova
 
 ---
 
+![Codewars](https://github.r2v.ch/codewars?user=rotherford&stroke=%23BB432C)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
