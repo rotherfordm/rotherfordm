@@ -12,9 +12,6 @@ I am a Technologist that loves to research and develop new things. I find innova
    </p>
 
 ---
-
-![Codewars](https://github.r2v.ch/codewars?user=rotherford&stroke=%23BB432C)
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -33,3 +30,10 @@ I am a Technologist that loves to research and develop new things. I find innova
 <img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
+<br />
+
+---
+
+<br />
+
+![Codewars](https://github.r2v.ch/codewars?user=rotherford&stroke=%23BB432C)
