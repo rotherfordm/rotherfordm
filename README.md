@@ -6,10 +6,14 @@ I am a Technologist that loves to research and develop new things. I find innova
 
    <p align="left">
       <a href="https://github.com/rotherfordm?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rotherfordm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rotherfordm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      </a>
       <a href="https://github.com/rotherfordm?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rotherfordm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rotherfordm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
    </p>
+   
+![Codewars](https://www.codewars.com/users/rotherford/badges/small)
 
 ---
 ### 🧰 Languages and Tools
@@ -29,11 +33,3 @@ I am a Technologist that loves to research and develop new things. I find innova
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<br />
-<br />
-
----
-
-<br />
-
-![Codewars](https://github.r2v.ch/codewars?user=rotherford&stroke=%23BB432C)
