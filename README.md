@@ -13,8 +13,9 @@ I am a Technologist that loves to research and develop new things. I find innova
       </a>
    </p>
    
+![Leetcode Stats](https://leetcard.jacoblin.cool/rford)
+<br />
 ![Codewars](https://www.codewars.com/users/rotherford/badges/small)
-
 ---
 ### 🧰 Languages and Tools
 
